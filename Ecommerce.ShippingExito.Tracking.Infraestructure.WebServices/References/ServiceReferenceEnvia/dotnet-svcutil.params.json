@@ -1,0 +1,12 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.0.1",
+  "options": {
+    "inputs": [
+      "http://200.69.100.66/online/servicioliquidacion.asmx?WSDL"
+    ],
+    "outputFile": "Reference.cs",
+    "targetFramework": "netcoreapp2.1",
+    "typeReuseMode": "All"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.0.1",
+  "options": {
+    "inputs": [
+      "https://ws.coordinadora.com/ags/1.4/server.php?wsdl"
+    ],
+    "outputFile": "Reference.cs",
+    "targetFramework": "netcoreapp2.1",
+    "typeReuseMode": "All"
+  }
+}
